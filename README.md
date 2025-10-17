@@ -22,8 +22,8 @@ Destaques Semânticos e de Validação
 Estrutura de Conteúdo: O bloco principal do formulário está contido em <main> e agrupado em uma <section>, indicando claramente seu papel no documento.
 Agrupamento de Campos: O <fieldset> e o <legend> foram usados corretamente para agrupar visual e semanticamente as "Informações Pessoais", tornando o formulário mais organizado para o usuário e para leitores de tela.
 Tag de Vazio: A tag <input type="submit"> foi corrigida para o padrão HTML5, não utilizando o fechamento automático /> (self-closing), conforme as diretrizes de elementos de vazio.
-🔗 Link do Projeto
-https://VagnerDevBR.github.io/cadastro-voluntarios-ong/
+
+🔗 [Link do Projeto](https://github.com/VagnerDevBR/cadastro-voluntarios-ong)
 
 📂 Como Acessar o Código
 O código-fonte completo pode ser encontrado na branch principal deste repositório.
